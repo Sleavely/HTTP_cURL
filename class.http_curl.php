@@ -5,6 +5,7 @@
  * go along and need more stuff, so.. you know, be nice.
  *
  * @author Joakim Hedlund <contact@joakimhedlund.com>
+ * @link https://github.com/Sleavely/HTTP_cURL
  * @uses PHP 5.1.3
  */
 class HTTP_cURL {

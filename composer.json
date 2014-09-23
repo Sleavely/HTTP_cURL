@@ -1,5 +1,6 @@
 {
     "name": "sleavely/http_curl",
+    "description": "A magic wrapper for the native cURL functions in PHP",
     "authors": [
         {
             "name": "Joakim Hedlund",

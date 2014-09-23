@@ -1,0 +1,13 @@
+{
+    "name": "sleavely/http_curl",
+    "authors": [
+        {
+            "name": "Joakim Hedlund",
+            "email": "contact@joakimhedlund.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
